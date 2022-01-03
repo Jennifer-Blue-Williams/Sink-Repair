@@ -1,0 +1,19 @@
+h1 {
+    display: flex;
+    text-align: center;
+}
+#container {
+  display: flex;  
+}
+.flexUse {
+    flex-direction: column;
+}
+
+button
+ {
+	background-color: #3b0980;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+    color: yellow;
+}
